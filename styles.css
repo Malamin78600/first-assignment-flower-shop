@@ -1,0 +1,14 @@
+#first-section{
+    display: flex;
+    
+    background-color: rgba(233, 229, 229, 0.987);
+    size: 1920px 850px;
+    
+}
+.header{
+    width: 50%;
+}
+.header-flower{
+    width: auto;
+    text-align: ;
+}
