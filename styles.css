@@ -1,14 +1,92 @@
-#first-section{
+* {
+    margin: 0px;
+}
+
+#first-section {
     display: flex;
-    
+
     background-color: rgba(233, 229, 229, 0.987);
-    size: 1920px 850px;
-    
+    /* size: 1920px 850px;
+    padding: 80px; */
+    text-align: center;
+    align-items: center;
+    padding: 20px 90px 0px 90px;
+
 }
-.header{
-    width: 50%;
+
+.heading {
+    font-size: 40px;
+    align-items: flex-start;
+
 }
-.header-flower{
+
+.header-para {
+    margin: 30px;
+}
+
+.header-flower {
+    width: ;
+    height: fit-content;
+    align-items: right;
+    padding-left: 100px;
+    display: inline-block;
+
+
+}
+
+.btn {
+
+    display: inline-block;
+    background-color: red;
+    align-content: baseline;
+    color: white;
+    width: 120px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+2nd section .first-heading {
+    text-align: center;
+    margin: 30px;
+    position: relative;
+
+    .second-para {
+        margin: 50px;
+        justify-content: center;
+        font-weight: 80;
+        text-align: center;
+    }
+
+}
+
+#second-part-flower {
+    display: flex;
+    height: 650px;
+    justify-content: space-around;
+    background-color: aqua;
+    padding: 5px 200px;
+}
+
+#heading-footer {
+    text-align: center;
+    background-color: blue;
+}
+
+#rose-flower-1 {
+    background: rgb(196, 4, 36);
+}
+
+#rose-flower-1 {
+
+    height: auto;
+    width: 1500px;
+    background-color: rgb(30, 247, 30);
+    border-radius: 150px 150px 0px 0px;
+    height: 500px;
+}
+
+.rose-1 {
     width: auto;
-    text-align: ;
+    height: 300px;
+    margin: 50px;
 }
